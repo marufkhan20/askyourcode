@@ -31,7 +31,7 @@ export default function Home() {
               <div className="bg-primary rounded-lg p-2">
                 <Code className="h-5 w-5 text-white" />
               </div>
-              <span className="text-xl font-bold">CodeQA</span>
+              <span className="text-xl font-bold">AskYourCode</span>
             </Link>
 
             <nav className="hidden md:flex items-center gap-8">
@@ -89,7 +89,7 @@ export default function Home() {
               transition={{ duration: 0.5 }}
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-                CodeQA <span className="text-primary">Software</span>
+                AskYourCode <span className="text-primary">Software</span>
               </h1>
             </motion.div>
 
